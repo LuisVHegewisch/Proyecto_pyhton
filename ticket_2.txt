@@ -1,0 +1,6 @@
+Pedido:
+Número de pedido: 2
+Cliente: Pris
+Producto: Aguachile
+Precio: 220.0
+Gracias por su compra!

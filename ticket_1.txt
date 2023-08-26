@@ -1,0 +1,6 @@
+Pedido:
+Número de pedido: 1
+Cliente: Luis
+Producto: burgir
+Precio: 100.0
+Gracias por su compra!
